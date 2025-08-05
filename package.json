@@ -1,9 +1,9 @@
 {
-  "name": "CursoRelatividadGeneralJavierGarcia",
-  "author": "Crul (https://github.com/crul)",
-  "description": "Repositorio de fórmulas para el Curso de Relatividad General de Javier García",
+  "name": "CursoTeoriaDeCampos",
+  "author": "Cuentos Cuánticos",
+  "description": "Repositorio de fórmulas del Curso de Teoría de Campos",
   "version": "0.0.1",
-  "homepage": "https://crul.github.io/CursoRelatividadGeneralJavierGarcia",
+  "homepage": "https://crul.github.io/CCteoriadecampos",
   "dependencies": {
     "jquery": "3.5.1",
     "katex": "0.16.18"
